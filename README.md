@@ -1,7 +1,8 @@
 # Open-source-contribution
 Hacktoberfest - Repository for contributing in open source
 # HacktoberFest-2021
-Repository designed for beginner to contribute to open-source 
+Repository designed for beginner to contribute to open-source
+Don't spam unnecessary codes only work on issues assigned.
 
 
 ## ❓ What is Hacktoberfest 2021?
