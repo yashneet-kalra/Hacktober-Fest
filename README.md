@@ -1,4 +1,4 @@
-# HacktoberFest_DSA
+# Open-source-contribution
 Hacktoberfest - Repository for contributing in open source
 # HacktoberFest-2021
 Repository designed for beginner to contribute to open-source 
