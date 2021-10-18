@@ -2,14 +2,7 @@
 
 using namespace std;
 
-/*
-Write a program that declares variables and pointers for a double, float, int, and
-short int (eight total variables). Assign values of your choosing to the numeric
-variables and the addresses of the variables into their pointers. Write out the addresses
-and values of each variable. Use the sizeof operator to state the number
-of bytes reserved for each type of variable.Then, using pencil and paper, diagram
-a memory using boxes that represent how the program allocated the memory.
-*/
+
 int main()
 {
     double a = 4;
