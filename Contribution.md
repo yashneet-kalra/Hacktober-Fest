@@ -1,5 +1,5 @@
 To raise the Pull Request
-Make 1 Pull Request for 1 issue. Otherwise, you may lose points.
+Make 1 Pull Request for 1 issue.
 
 Mention Issue number while creating Pull Request in the description box or link the issue from the right options. This helps to link the PR with the respective issue.
 
@@ -21,11 +21,10 @@ CODE FORMAT
 4. Include Time and Space Complexity
 Always take Dynamic Input from the user.
 
-Avoid Plagiarism Never copy from other websites. This might affect your results on the leaderboard of gssoc'21.
-
+Avoid Plagiarism Never copy from other websites.
 Merge your commits when changes requested.
-
 To raise a valid Issue
 Do not create duplicate issues.
 Always look for issues previously created before creating an issue of a particular topic. (Use Filters)
 All issues are assigned on First Come, First Serve Basis.
+Note - Only work on issues assigned by maintainer
